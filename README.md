@@ -1,4 +1,4 @@
-# Image Component Labeler
+# Image-Component Labeler
 
 This Java application features a GUI with two matrices. The input matrix is reactive and any changes to it update the output matrix with the corresponding components
 comprised of activated input tiles.
